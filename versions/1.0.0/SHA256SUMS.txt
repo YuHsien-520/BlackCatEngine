@@ -1,0 +1,4 @@
+5a6c935da1bd6deebb0e4b62416064db3b3b268162e4c558894a45cb7b96d13d  BlackCatEngine-API-1.0.0.jar
+119afcb5ae914361cbd288e83ead60c4d131705448e9f8ae5b4eab1707c18e48  BlackCatEngine-Core-1.0.0.jar
+42e44bb2a5e68559ba069975b65127ca91b1490593cfaadad4ac22400a9429e8  BlackCatEngine-Sources-1.0.0.jar
+ee655710815dcf8d93d8811f73e40df6abbf45c35bfb2ee1a483e5503ca0b8db  BlackCatEngine-1.0.0-source.zip
