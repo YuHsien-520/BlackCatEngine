@@ -7,6 +7,10 @@
 - Added asynchronous asset preparation with in-flight deduplication and frame-budgeted commit processing.
 - Added module fault isolation, compatibility environment registry and structured diagnostics/profiling foundations.
 - Added BlackCatRuntime as the composition root for core services.
-- Verified 8/8 foundation tests and Java classfile major version 52.
+- Added VAFS directory mounts with traversal and symlink-escape protection.
+- Added streaming SHA-256 content-addressed storage and immutable manifest-backed resource routing.
+- Added five-level asset priorities: IMMEDIATE, VISIBLE, NEARBY, PREFETCH and BACKGROUND.
+- Added bounded priority preparation and commit queues so visible resources can overtake queued background work.
+- Verified 9/9 foundation tests and Java classfile major version 52.
 
 This snapshot is the BC 1.0 foundation and is not yet the final Minecraft-installable Forge 1.12.2 release.
